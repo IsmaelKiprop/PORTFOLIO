@@ -11,7 +11,7 @@
     </h3>
 <ul>
     <li>🌱 I'm currently focusing on <strong>Python Programming</strong>.</li>
-    <li>👨‍💻 You can find my projects on my <a href="https://ismaelkiprop.github.io/my_portfolio/" target="_blank">Portfolio</a> Website</li>
+    <li>👨‍💻 You can find my projects on my <a href="https://github.com/IsmaelKiprop/PORTFOLIO/" target="_blank">Portfolio</a> Website</li>
     <li>📫 You can email me at <strong><a href="mailto:kipropismael27@gmail.com">kipropismael27@gmail.com</a></strong>.</li>
     <li>😄 Pronouns: <strong>"iss"</strong>.</li>
     <li>📱 You can also contact me on WhatsApp at <strong><a href="https://wa.me/254768049757">+254768049757</a></strong>.</li>
